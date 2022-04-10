@@ -8,7 +8,7 @@
 <html lang="en">
 
 <head>
-  <title>Agino Global Real Estate::: Contact</title>
+  <title>Agino Global Real Estate:::Services:: Real Estate</title>
   <!-- Meta -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="google-site-verification" content="" />
@@ -97,8 +97,8 @@
       <section>
         <div class="header-inner two">
           <div class="inner text-center">
-            <h4 class="title text-white uppercase">Contact Us</h4>
-            <h5 class="text-white uppercase">Get many More Features</h5>
+            <h4 class="title text-white uppercase">Services</h4>
+            <h5 class="text-white uppercase">Real Estate Development</h5>
           </div>
           <div class="overlay bg-opacity-5"></div>
           <img src="images/page-header.jpg" alt="" class="img-responsive" />
@@ -113,8 +113,10 @@
             <div class="col-md-9">
 
               <div class="col-md-12 nopadding">
-                <div id="" class="map">
-                  <p><iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3940.1516632670973!2d7.480175363809627!3d9.049927241155025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s3rd%20Floor%2C%20Nicon%20Insurance%20Plaza%2C%20Plot%20242%2C%20Muhammadu%20Buhari%20Way%2C%20Central%20Business%20District.%20Abuja%2C%20Nigeria!5e0!3m2!1sen!2sng!4v1649419435572!5m2!1sen!2sng" style="border:0;" class="map" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+                <div id="" class="">
+                  <img src="images/page-header.jpg" alt="" class="img-responsive" />
+
+
                 </div>
               </div>
               <div class="clearfix"></div>
@@ -122,73 +124,22 @@
 
               <div class="smart-forms">
 
-                <h3>Send Us A message</h3>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis
-                  commodo augue. Aliquam ornare hendrerit consectetuer adipiscing elit. Suspendisse et justo. augue.</p>
+                <h3>Real Estate Development</h3>
+                <h6>The core of our business is developing and managing real estate projects.
+                  The property market in Nigeria is developing rapidly
+                  and we are fully positioned to provide affordable housing solutions for its teeming population.</h6>
+
+                <h6>Our real estate development service spans the entire real estate spectrum
+                  – including but not limited to estate development, building construction, engineering works, infrastructure development
+                  and much more. Our professionals and partners have gained extensive know-how and expertise in developing retail,
+                  residential, leisure and commercial building projects.</h6>
+
+                <h6>We also provide design and architectural services.
+                  Whatever your needs may be, we are your one stop solution
+                  – we deliver on time and on budget, no matter the size of the project.</h6>
                 <br /><br />
 
-                <form method="post" action="php/smartprocess.php" id="smart-form">
-                  <div>
 
-                    <div class="section">
-                      <label class="field prepend-icon">
-                        <input type="text" name="sendername" id="sendername" class="gui-input" placeholder="Enter name">
-                        <span class="field-icon"><i class="fa fa-user"></i></span>
-                      </label>
-                    </div><!-- end section -->
-
-                    <div class="section">
-                      <label class="field prepend-icon">
-                        <input type="email" name="emailaddress" id="emailaddress" class="gui-input" placeholder="Email address">
-                        <span class="field-icon"><i class="fa fa-envelope"></i></span>
-                      </label>
-                    </div><!-- end section -->
-
-                    <div class="section colm colm6">
-                      <label class="field prepend-icon">
-                        <input type="tel" name="telephone" id="telephone" class="gui-input" placeholder="Telephone">
-                        <span class="field-icon"><i class="fa fa-phone-square"></i></span>
-                      </label>
-                    </div><!-- end section -->
-
-                    <div class="section">
-                      <label class="field prepend-icon">
-                        <input type="text" name="sendersubject" id="sendersubject" class="gui-input" placeholder="Enter subjec">
-                        <span class="field-icon"><i class="fa fa-lightbulb-o"></i></span>
-                      </label>
-                    </div><!-- end section -->
-
-                    <div class="section">
-                      <label class="field prepend-icon">
-                        <textarea class="gui-textarea" id="sendermessage" name="sendermessage" placeholder="Enter message"></textarea>
-                        <span class="field-icon"><i class="fa fa-comments"></i></span>
-                        <span class="input-hint"> <strong>Hint:</strong> Please enter between 80 - 300
-                          characters.</span>
-                      </label>
-                    </div><!-- end section -->
-
-
-                    <!--<div class="section">
-                            <div class="smart-widget sm-left sml-120">
-                                <label class="field">
-                                    <input type="text" name="captcha" id="captcha" class="gui-input sfcode" maxlength="6" placeholder="Enter CAPTCHA">
-                                </label>
-                                <label class="button captcode">
-                                    <img src="php/captcha/captcha.php?<?php echo time(); ?>" id="captchax" alt="captcha">
-                                    <span class="refresh-captcha"><i class="fa fa-refresh"></i></span>
-                                </label>
-                            </div> 
-                        </div>-->
-
-
-                    <div class="result"></div><!-- end .result  section -->
-
-                  </div><!-- end .form-body section -->
-                  <div class="form-footer">
-                    <button type="submit" data-btntext-sending="Sending..." class="button btn-primary green">Submit</button>
-                    <button type="reset" class="button"> Cancel </button>
-                  </div><!-- end .form-footer section -->
-                </form>
               </div><!-- end .smart-forms section -->
 
 
@@ -196,24 +147,25 @@
             <!--end left-->
 
             <div class="col-md-3">
-              <h4>Featured Properties</h4>
+              <!-- <h4>Featured Properties</h4> -->
               <div class="title-line-4 green less-margin"></div>
               <div class="clearfix"></div>
               <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-              <h5 class="paddtop1"><a href="#">info@aginoglobalrealestate.com</a></h5>
-              <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
-              <h6 class="text-green-3">₦22,000,000</h6>
+              <!-- <h5 class="paddtop1"><a href="#">info@aginoglobalrealestate.com</a></h5> -->
+              <h5>Our real estate development service spans the entire real estate spectrum - 
+                including but not limited to estate development, 
+                building construction, engineering works, interior decoration and much more.</h5>
               <br />
 
               <div class="divider-line solid light"></div>
 
-              <br />
+              <!-- <br />
               <br />
               <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
               <h5 class="paddtop1"><a href="#">aginoglobalrealestate@gmail.com</a></h5>
               <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
               <h6 class="text-green-3">₦22,000,000</h6>
-              <br />
+              <br /> -->
 
 
             </div>

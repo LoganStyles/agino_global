@@ -8,7 +8,7 @@
 <html lang="en">
 
 <head>
-  <title>AginoGlobal::: RealEstate Listings</title>
+  <title>Agino Global Real Estate::: Listings</title>
   <!-- Meta -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="google-site-verification" content="" />
