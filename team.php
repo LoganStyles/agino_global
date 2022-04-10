@@ -8,7 +8,7 @@
 <html lang="en">
 
 <head>
-  <title>AginoGlobal::: RealEstate Agents</title>
+  <title>Agino Global Real Estate::: Team</title>
   <!-- Meta -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="google-site-verification" content="" />
@@ -109,11 +109,13 @@
       <section class="sec-padding section-light">
         <div class="container">
           <div class="row">
+
             <div class="col-xs-12 text-center">
-              <h3 class="uppercase font-weight-5">Meet Our Agents</h3>
+              <h3 class="uppercase font-weight-5">Meet Our Team</h3>
               <div class="title-line-4 green align-center"></div>
             </div>
             <div class="clearfix"></div>
+
             <div class="col-md-3 col-sm-6">
               <div class="team-holder13 bmargin">
                 <div class="img-holder">
@@ -128,10 +130,27 @@
                   <img src="http://placehold.it/450x550" alt="" class="img-responsive" />
                 </div>
                 <div class="content-box less-pading text-center">
-                  <h5 class="nomargin title">Michael</h5>
-                  <h6 class="text-green-3 nopadding">Senior Agent</h6>
+                  <h5 class="nomargin title">TONY MOMMOH</h5>
+                  <h6 class="text-green-3 nopadding">Chief Executive Officer</h6>
                   <br />
-                  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing </p>
+                  <p style="text-align:justify">Mr. Momoh Anthony Benard is the CEO of Agino Global Real Estate - under the Agino Global Group of Companies.
+                    He has extensive experience in all areas of the Real Estate Sector - including but not limited to real estate construction,
+                    real estate management and investment. </p>
+
+                  <p style="text-align:justify">
+                    He has worked on and delivered several real estate projects around the country. With an unmatched Entrepreneurial drive,
+                    Mr. Anthony brings on board decades of experience in real estate business development, strategy and marketing.
+                  </p>
+                  <p style="text-align:justify">
+                    He works closely with the Board of directors, Management Team and Department heads of Agino Global Real Estate Limited
+                    to ensure the company delivers
+                    on it's mandate of providing best in class real estate products and services to her teeming client base.
+                  </p>
+                  <p style="text-align:justify">
+                    He also serves on the board of several Nigerian companies - including Riverdale Real Estate Ltd and Agino Global oil
+                    and gas limited.
+                    Mr. Anthony is married with kids and is a recipient of many awards. He is also passionate about giving back to society
+                  </p>
                 </div>
               </div>
             </div>
@@ -151,10 +170,14 @@
                   <img src="http://placehold.it/450x550" alt="" class="img-responsive" />
                 </div>
                 <div class="content-box less-pading text-center">
-                  <h5 class="nomargin title">Elizabeth</h5>
-                  <h6 class="text-green-3 nopadding">Agent</h6>
+                  <h5 class="nomargin title">SOPHIE BOYITTE</h5>
+                  <h6 class="text-green-3 nopadding">Branch Manager</h6>
                   <br />
-                  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing </p>
+                  <p style="text-align:justify">
+                    Mrs. Sophie currently serves as the Abuja Branch Manager of Agino Global Real Estate Limited.
+                    She has extensive experience leading marketing and
+                    sales teams and is responsible for overseeing the Abuja branch of the company
+                  </p>
                 </div>
               </div>
             </div>
