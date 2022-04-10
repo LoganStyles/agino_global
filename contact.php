@@ -85,30 +85,10 @@
 <body>
   <div class="wrapper-boxed">
     <div class="site_wrapper">
-      <div class="topbar white topbar-padding">
-        <div class="container">
-          <div class="topbar-left-items">
-            <ul class="toplist toppadding pull-left paddtop1">
-              <li class="rightl">Customer Care</li>
-              <li>(+234) 8061493122</li>
-            </ul>
-          </div>
-          <!--end left-->
 
-          <div class="topbar-right-items pull-right">
-            <ul class="toplist toppadding">
-              <li class="lineright"><a href="../index.html">Main Home</a></li>
-              <li class="lineright"><a href="../login.html">Login</a></li>
-              <li class="lineright"><a href="../register.html">Register</a></li>
-              <li><a href="https://www.facebook.com/AginoGlobal"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="https://twitter.com/AginoGlobal"><i class="fa fa-twitter"></i></a></li>
-
-              <li class="last"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="clearfix"></div>
+      <!-- start header top -->
+      <?php include 'php/includes/header_top.php'; ?>
+      <!-- end header top -->
 
       <!-- start navigation -->
       <?php include 'php/includes/navigation.php'; ?>
