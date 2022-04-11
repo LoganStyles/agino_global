@@ -97,7 +97,6 @@
         <div class="header-inner two">
           <div class="inner text-center">
             <h4 class="title text-white uppercase">Our Team</h4>
-            <!-- <h5 class="text-white uppercase">Get many More Features</h5> -->
           </div>
           <div class="overlay bg-opacity-5"></div>
           <img src="images/page-header.jpg" alt="" class="img-responsive" />
@@ -123,8 +122,7 @@
                     <ul class="social-icons-1">
                       <li><a href="https://www.instagram.com/aginoglobalreal/"><i class="fa fa-instagram"></i></a></li>
                       <li><a href="https://web.facebook.com/aginoglobalrealestate"><i class="fa fa-facebook"></i></a></li>
-
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                      <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
                     </ul>
                   </div>
                   <img src="http://placehold.it/450x550" alt="" class="img-responsive" />
@@ -161,10 +159,9 @@
                 <div class="img-holder">
                   <div class="icon-box text-center">
                     <ul class="social-icons-1">
-                      <li><a href="https://twitter.com/aquabytes"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="https://www.facebook.com/aquabytes"><i class="fa fa-facebook"></i></a></li>
-
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                      <li><a href="https://www.instagram.com/aginoglobalreal/"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="https://web.facebook.com/aginoglobalrealestate"><i class="fa fa-facebook"></i></a></li>
+                      <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
                     </ul>
                   </div>
                   <img src="http://placehold.it/450x550" alt="" class="img-responsive" />
@@ -183,13 +180,10 @@
             </div>
             <!--end item-->
 
-
-
             <div class="clearfix"></div>
-
             <div class="col-divider-margin-4"></div>
 
-            
+
           </div>
         </div>
       </section>
@@ -225,7 +219,6 @@
   <script src="js/mainmenu/customeUI.js"></script>
   <script src="js/scrolltotop/totop.js"></script>
   <script src="js/mainmenu/jquery.sticky.js"></script>
-
   <script src="js/scripts/functions.js" type="text/javascript"></script>
 </body>
 
