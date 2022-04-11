@@ -274,14 +274,16 @@
       <section class="sec-padding">
         <div class="container">
           <div class="row">
-
+            <h4 class="uppercase">Services</h4>
+            <div class="title-line-4 green less-margin"></div>
+            <br />
             <div class="col-md-4">
               <div class="feature-box-65 bmargin">
-                <div class="iconbox-xtiny left round"><i class="fa fa-users"></i></div>
+                <div class="iconbox-xtiny left round"><i class="fa fa-building"></i></div>
                 <div class="text-box-right">
                   <h5 class="uppercase font-weight-4">Real Estate Development</h5>
                   <p> Our real estate development service spans the entire real estate spectrum</p>
-                  <p><a style="color:#a5d549;" href="realestate.php">Read More</a></p>
+                  <p><a style="color:#a5d549;" href="realestate.php">...Read More</a></p>
                 </div>
               </div>
             </div>
@@ -292,8 +294,8 @@
                 <div class="iconbox-xtiny left round"><i class="fa fa-briefcase"></i></div>
                 <div class="text-box-right">
                   <h5 class="uppercase font-weight-4">Facility Management </h5>
-                  <p> Our FM offers a robust solution drawing on our strengths of operating global...</p>
-                  <p><a style="color:#a5d549;" href="facilitymanagement.php">Read More</a></p>
+                  <p> Our FM offers a robust solution drawing on our strengths of operating global</p>
+                  <p><a style="color:#a5d549;" href="facilitymanagement.php">...Read More</a></p>
                 </div>
               </div>
             </div>
@@ -301,11 +303,11 @@
 
             <div class="col-md-4">
               <div class="feature-box-65 bmargin">
-                <div class="iconbox-xtiny left round"><i class="fa fa-Livestock"></i></div>
+                <div class="iconbox-xtiny left round"><i class="fa fa-hand-o-right"></i></div>
                 <div class="text-box-right">
                   <h5 class="uppercase font-weight-4">Real Estate Advisory </h5>
-                  <p> Our advisory Business offers services that help our clients manage risk and increase...</p>
-                  <p><a style="color:#a5d549;" href="advisory.php">Read More</a></p>
+                  <p> Our advisory Business offers services that help our clients manage risk and increase</p>
+                  <p><a style="color:#a5d549;" href="advisory.php">...Read More</a></p>
                 </div>
               </div>
             </div>
@@ -315,11 +317,11 @@
             <div class="col-divider-margin-4"></div>
             <div class="col-md-4">
               <div class="feature-box-65 bmargin">
-                <div class="iconbox-xtiny left round"><i class="fa fa-book"></i></div>
+                <div class="iconbox-xtiny left round"><i class="fa fa-bar-chart"></i></div>
                 <div class="text-box-right">
                   <h5 class="uppercase font-weight-4">Brokerage</h5>
-                  <p> Our brokerage team at Agino Global Real Estate covers both sides of the transaction chain across...</p>
-                  <p><a style="color:#a5d549;" href="brokerage.php">Read More</a></p>
+                  <p> Our brokerage team at Agino Global Real Estate covers both sides of the transaction chain across</p>
+                  <p><a style="color:#a5d549;" href="brokerage.php">...Read More</a></p>
                 </div>
               </div>
             </div>
@@ -508,11 +510,11 @@
           <div class="row">
             <div class="col-md-9">
               <h3 class="less-mar3 uppercase text-white">Our Best RealEstate Deals</h3>
-              <p class="text-white">Lorem ipsum dolor sit amet consectetuer adipiscing elit Suspendisse et justo Praesent mattis commodo augue Aliquam ornare.</p>
+              <p class="text-white">Take a look at some of our top notch services</p>
             </div>
             <div class="col-md-3">
               <div class="margin-top2"></div>
-              <a class="btn btn-border white-2 btn-large pull-right" href="#">Read more</a>
+              <a class="btn btn-border white-2 btn-large pull-right" href="realestate.php">Read more</a>
             </div>
           </div>
         </div>
@@ -520,7 +522,7 @@
       <!--end section-->
       <div class="clearfix"></div>
 
-      <section class="sec-padding">
+      <!--<section class="sec-padding">
         <div class="container">
           <div class="row">
             <div class="col-md-4 col-sm-6 align-left clearfix">
@@ -542,7 +544,7 @@
                     <h6 class="text-green-3 paddtop2">Aenean arcu tortor</h6>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent</p>
                   </div>
-                  <!-- end tab 1 -->
+                  
 
                   <div id="example-11-tab-2" class="tabs-panel11">
                     <h6 class="text-green-3">Vivamus sit amet </h6>
@@ -550,7 +552,7 @@
                     <h6 class="text-green-3 paddtop2">Aenean arcu tortor</h6>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent</p>
                   </div>
-                  <!-- end tab 2 -->
+                  
 
                   <div id="example-11-tab-3" class="tabs-panel11"> <strong>Lorem ipsum dolor sit amet, consectetuer adipiscing elit ?</strong><br />
                     <h6 class="text-green-3">Vivamus sit amet </h6>
@@ -558,10 +560,10 @@
                     <h6 class="text-green-3 paddtop2">Aenean arcu tortor</h6>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent</p>
                   </div>
-                  <!-- end tab 3 -->
+                  
 
                 </div>
-                <!-- end all tabs -->
+                
               </div>
             </div>
             <div class="col-md-4 col-sm-6 align-left clearfix">
@@ -577,7 +579,7 @@
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit consectetuer adipiscing elit. Suspendisse et justo. augue.</p>
               </div>
             </div>
-            <!--end item-->
+            
             <div class="col-md-4 col-sm-6 align-left last">
               <div class="item-holder bmargin">
                 <h4 class="uppercase">Why Choose</h4>
@@ -587,19 +589,19 @@
                 <div class="accordion_holder">
                   <div class="accordion_example1">
 
-                    <!-- Section 1 -->
+                    
                     <div class="accordion_in two acc_active">
                       <div class="acc_head">Creative Design</div>
                       <div class="acc_content"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus. In pulvinar lectus a est. Curabitur eget orci. </div>
                     </div>
 
-                    <!-- Section 2 -->
+                    
                     <div class="accordion_in two">
                       <div class="acc_head">Graphic Design</div>
                       <div class="acc_content"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus. In pulvinar lectus a est. Curabitur eget orci. Cras laoreet ligula. Etiam sit amet dolor. </div>
                     </div>
 
-                    <!-- Section 3 -->
+                    
                     <div class="accordion_in two">
                       <div class="acc_head">Photography</div>
                       <div class="acc_content"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus. In pulvinar lectus a est. Curabitur eget orci. Cras laoreet ligula. Etiam sit amet dolor. </div>
@@ -607,15 +609,15 @@
                   </div>
                 </div>
               </div>
-              <!-- Accordion end -->
+              
             </div>
           </div>
         </div>
-      </section>
+      </section>-->
       <!--end section-->
       <div class="clearfix"></div>
 
-      <section class="parallax-section47">
+      <!-- <section class="parallax-section47">
         <div class="section-overlay bg-opacity-7">
           <div class="container sec-tpadding-3 sec-bpadding-3">
             <div class="row">
@@ -628,11 +630,11 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <!--end section-->
       <div class="clearfix"></div>
 
-      <section class="sec-padding section-light">
+      <!-- <section class="sec-padding section-light">
         <div class="container">
           <div class="row">
             <div class="col-xs-12 text-center">
@@ -661,7 +663,7 @@
                 </div>
               </div>
             </div>
-            <!--end item-->
+            
 
             <div class="col-md-3 col-sm-6">
               <div class="team-holder13 bmargin active">
@@ -684,7 +686,7 @@
                 </div>
               </div>
             </div>
-            <!--end item-->
+            
 
             <div class="col-md-3 col-sm-6">
               <div class="team-holder13 bmargin">
@@ -707,7 +709,7 @@
                 </div>
               </div>
             </div>
-            <!--end item-->
+            
 
             <div class="col-md-3 col-sm-6">
               <div class="team-holder13 bmargin">
@@ -730,15 +732,15 @@
                 </div>
               </div>
             </div>
-            <!--end item-->
+            
 
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- end section -->
       <div class="clearfix"></div>
 
-      <section class="sec-padding">
+      <!-- <section class="sec-padding">
         <div class="container">
           <div class="row">
             <div class="col-md-6 slide-controls-color-4">
@@ -758,7 +760,7 @@
                     <span>Mediatricks - Manager</span>
                   </div>
 
-                  <!--end item-->
+                  
 
                 </div>
                 <div class="item">
@@ -771,12 +773,12 @@
                     <span>Mediatricks - Manager</span>
                   </div>
 
-                  <!--end item-->
+                  
 
                 </div>
               </div>
             </div>
-            <!--end item-->
+            
 
             <div class="col-md-6 slide-controls-color-4">
               <h4 class="uppercase">Latest News</h4>
@@ -805,7 +807,7 @@
                     </div>
                   </div>
                 </div>
-                <!--end item-->
+                
 
                 <div class="item no-gutter">
                   <div class="col-md-6 col-sm-6">
@@ -827,13 +829,13 @@
                     </div>
                   </div>
                 </div>
-                <!--end item-->
+                
               </div>
             </div>
-            <!--end item-->
+            
           </div>
         </div>
-      </section>
+      </section> -->
       <!--end section-->
       <div class="clearfix"></div>
 
