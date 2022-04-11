@@ -1,3 +1,5 @@
+<?php $activePage = basename($_SERVER['PHP_SELF'], ".php");?>
+
 <div id="header">
     <div class="container">
         <div class="navbar green navbar-default yamm">
@@ -7,12 +9,15 @@
             </div>
             <div id="navbar-collapse-grid" class="navbar-collapse collapse pull-right">
                 <ul class="nav green navbar-nav">
-                    <li><a href="index.php" class="dropdown-toggle">Home</a></li>
-                    <li><a href="listings.php" class="dropdown-toggle">Listing</a></li>
+                    <li><a href="index.php" class="dropdown-toggle <?= ($activePage == 'index') ? 'active':''; ?>">Home</a></li>
+                    <li><a href="aboutus.php" class="dropdown-toggle <?= ($activePage == 'aboutus') ? 'active':''; ?>">About Us</a></li>
+                    <!-- <li><a href="aboutus.php" class="dropdown-toggle">Services</a></li> -->
+                    
+                    <!-- <li><a href="listings.php" class="dropdown-toggle">Listing</a></li>
                     <li><a href="properties.php" class="dropdown-toggle">Properties</a></li>
-                    <li><a href="gallery.php" class="dropdown-toggle">Gallery</a></li>
-                    <li><a href="agents.php" class="dropdown-toggle">Agents</a></li>
-                    <li><a href="contact.php" class="dropdown-toggle active">Contact</a></li>
+                    <li><a href="gallery.php" class="dropdown-toggle">Gallery</a></li> -->
+                    <li><a href="team.php" class="dropdown-toggle <?= ($activePage == 'team') ? 'active':''; ?>">Team</a></li>
+                    <li><a href="contact.php" class="dropdown-toggle <?= ($activePage == 'contact') ? 'active':''; ?>">Contact Us</a></li>
                 </ul>
             </div>
         </div>

@@ -124,20 +124,18 @@
 
                             <div class="smart-forms">
 
-                                <h3>Real Estate Advisory</h3>
-                                <h6>Our advisory Business offers services that help our clients manage risk and increase the effectiveness of their operations, 
-                                    while at the same time performing activities in amore efficient and cost-controlled manner. 
-                                    We are able to leverage significant breadth of knowledge and industry experience surroundingleadingpractices,     
-                                    and we bring a market proven methodology in delivering our services. Our advisory Business focuses on the real estate asset class, emphasizing suitable investments using a systematic approach 
-                                    with the general objective of Maximizing total returns subject to each client’s risk profile and investment guideline.</h6>
-
-                                <h6>We provide a comprehensive range of advisory services based on our clients’ specific needs using our extensive knowledge of 
-                                    real Estate investing, We also perform discretionary investment management activities for certain clients. 
-                                    This may include evaluating client real estate investments, 
-                                    investments strategies andobjectives, evaluating new investments and making and implementing Investment decisions.
+                                <h3>Who We Are</h3>
+                                <h6>Agino Global Real Estate Limited is a leading multi- disciplinary real estate company, privately held and incorporated in Nigeria.
+                                    We provide bespoke solutions across a range of real estate services to owners, occupiers and investors.
+                                    The company’s head office is located in Abuja, with Lagos & Enugu branch offices set to commence soon.
                                 </h6>
 
-                                
+                                <h6>Our clients depend on our ability to draw on years of experience in the Real Estate Industry;
+                                    our professionals are the best in the business and provide knowledgeable, creative solutions to meet all our clients’ real estate needs.
+                                    Our in- house knowledge combined with strategic partnerships allows us to promptly meet and exceed client expectations.
+                                </h6>
+
+
                                 <br /><br />
 
 
@@ -148,31 +146,61 @@
                         <!--end left-->
 
                         <div class="col-md-3">
-                            <!-- <h4>Featured Properties</h4> -->
+                            <h4>Mission Statement</h4>
                             <div class="title-line-4 green less-margin"></div>
                             <div class="clearfix"></div>
                             <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-                            <!-- <h5 class="paddtop1"><a href="#">info@aginoglobalrealestate.com</a></h5> -->
-                            <h5>We provide a comprehensive range of advisory services based on our clients’ specific needs using our extensive knowledge of 
-                                real Estate investing.
-                                We perform discretionary investment management activities for certain clients.</h5>
+                            <h5>"What other option than perfect housing"</h5>
                             <br />
 
                             <div class="divider-line solid light"></div>
 
-                            <!-- <br />
-              <br />
-              <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-              <h5 class="paddtop1"><a href="#">aginoglobalrealestate@gmail.com</a></h5>
-              <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
-              <h6 class="text-green-3">₦22,000,000</h6>
-              <br /> -->
+                            <!--<br />
+                            <br />
+                            <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
+                            <h5 class="paddtop1"><a href="#">500 Lorem Street, FL</a></h5>
+                            <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
+                            <h6 class="text-green-3">₦22,000,000</h6>
+                            <br />
 
-
+                            <div class="divider-line solid light"></div> -->
+                            <br /><br />
+                            <h4>Core Values</h4>
+                            <div class="title-line-4 green less-margin"></div>
+                            <div class="clearfix"></div>
+                            <ul class="category-list">
+                                <li>Serving with integrity </li>
+                                <li>Providing value for money </li>
+                                <li>Conducting ourselves and our business in an honest, ethical, and trustworthy manner</li>
+                                <li>Growing through innovation and creativity </li>
+                            </ul>
                         </div>
                         <!--end right-->
+                    </div>
+
+                    <div class="row">
+
+                        <!-- <div class="col-md-4 col-sm-6 align-left clearfix"> -->
+                        <div class="col-md-9 align-left clearfix">
+                            <div class="item-holder bmargin">
+                                <h4 class="uppercase">Our Mission</h4>
+                                <div class="title-line-4 green less-margin"></div>
+                                <br />
+                                <!-- <h6 class="text-green-3">Our Mission</h6> -->
+                                <h5>Our Mission is to provide unparalleled real estate services to both local and international clients.</h5>
+                                <br />
+                                <!-- <h6 class="text-green-3">Our Vision</h6> -->
+                                <h4 class="uppercase">Our Vision</h4>
+                                <div class="title-line-4 green less-margin"></div><br />
+
+                                <h5>Our Vision is to be a leader in commercial, retail and residential real estate.
+                                    We aim to become a company renowned for developing and managing properties to word- class standards.</h5>
+                            </div>
+                        </div>
+                        <!--end item-->
 
                     </div>
+
                 </div>
             </section>
             <!-- end section -->

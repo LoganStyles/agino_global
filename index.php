@@ -8,7 +8,7 @@
 <html lang="en">
 
 <head>
-  <title>Agino Global Real Estate:::  Home</title>
+  <title>Agino Global Real Estate::: Home</title>
   <!-- Meta -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="google-site-verification" content="" />
@@ -89,7 +89,7 @@
       <?php include 'php/includes/header_top.php'; ?>
       <!-- end header top -->
 
-     <!-- start navigation -->
+      <!-- start navigation -->
       <?php include 'php/includes/navigation.php'; ?>
       <!-- end navigation -->
 
@@ -274,13 +274,14 @@
       <section class="sec-padding">
         <div class="container">
           <div class="row">
-            
+
             <div class="col-md-4">
               <div class="feature-box-65 bmargin">
                 <div class="iconbox-xtiny left round"><i class="fa fa-users"></i></div>
                 <div class="text-box-right">
-                  <h5 class="uppercase font-weight-4">Maecenas sed nisl</h5>
-                  <p> Consectetuer adipiscing elit sit amet Lorem ipsum dolor sit amet</p>
+                  <h5 class="uppercase font-weight-4">Real Estate Development</h5>
+                  <p> Our real estate development service spans the entire real estate spectrum</p>
+                  <p><a style="color:#a5d549;" href="realestate.php">Read More</a></p>
                 </div>
               </div>
             </div>
@@ -290,8 +291,9 @@
               <div class="feature-box-65 bmargin">
                 <div class="iconbox-xtiny left round"><i class="fa fa-briefcase"></i></div>
                 <div class="text-box-right">
-                  <h5 class="uppercase font-weight-4">Aliquam ut leo </h5>
-                  <p> Consectetuer adipiscing elit sit amet Lorem ipsum dolor sit amet</p>
+                  <h5 class="uppercase font-weight-4">Facility Management </h5>
+                  <p> Our FM offers a robust solution drawing on our strengths of operating global...</p>
+                  <p><a style="color:#a5d549;" href="facilitymanagement.php">Read More</a></p>
                 </div>
               </div>
             </div>
@@ -301,8 +303,9 @@
               <div class="feature-box-65 bmargin">
                 <div class="iconbox-xtiny left round"><i class="fa fa-Livestock"></i></div>
                 <div class="text-box-right">
-                  <h5 class="uppercase font-weight-4">Etiam porttitor turpis </h5>
-                  <p> Consectetuer adipiscing elit sit amet Lorem ipsum dolor sit amet</p>
+                  <h5 class="uppercase font-weight-4">Real Estate Advisory </h5>
+                  <p> Our advisory Business offers services that help our clients manage risk and increase...</p>
+                  <p><a style="color:#a5d549;" href="advisory.php">Read More</a></p>
                 </div>
               </div>
             </div>
@@ -314,14 +317,15 @@
               <div class="feature-box-65 bmargin">
                 <div class="iconbox-xtiny left round"><i class="fa fa-book"></i></div>
                 <div class="text-box-right">
-                  <h5 class="uppercase font-weight-4">Aliquam ut leo </h5>
-                  <p> Consectetuer adipiscing elit sit amet Lorem ipsum dolor sit amet</p>
+                  <h5 class="uppercase font-weight-4">Brokerage</h5>
+                  <p> Our brokerage team at Agino Global Real Estate covers both sides of the transaction chain across...</p>
+                  <p><a style="color:#a5d549;" href="brokerage.php">Read More</a></p>
                 </div>
               </div>
             </div>
             <!--end item-->
 
-            <div class="col-md-4">
+            <!-- <div class="col-md-4">
               <div class="feature-box-65 bmargin">
                 <div class="iconbox-xtiny left round"><i class="fa fa-gift"></i></div>
                 <div class="text-box-right">
@@ -329,10 +333,10 @@
                   <p> Consectetuer adipiscing elit sit amet Lorem ipsum dolor sit amet</p>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!--end item-->
 
-            <div class="col-md-4">
+            <!-- <div class="col-md-4">
               <div class="feature-box-65 bmargin">
                 <div class="iconbox-xtiny left round"><i class="fa fa-home"></i></div>
                 <div class="text-box-right">
@@ -340,7 +344,7 @@
                   <p> Consectetuer adipiscing elit sit amet Lorem ipsum dolor sit amet</p>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!--end item-->
 
           </div>
@@ -855,7 +859,7 @@
       <!-- start footer -->
       <?php include 'php/includes/footer.php'; ?>
       <!-- end footer -->
-      
+
       <a href="#" class="scrollup green-3"></a><!-- end scroll to top of the page-->
     </div>
   </div>
