@@ -12,7 +12,7 @@
         <div class="topbar-right-items pull-right">
             <ul class="toplist toppadding">
                 <li class="lineright">(+234) 8061493122</li>
-                <li class="lineright">info@aginoglobalrealestate.com</li>
+                <!-- <li class="lineright">info@aginoglobalrealestate.com</li> -->
                 <!-- <li class="lineright"><a href="../register.html">Register</a></li> -->
                 <li><a href="https://web.facebook.com/aginoglobalrealestate" target="_blank"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="https://www.instagram.com/aginoglobalreal/" target="_blank"><i class="fa fa-instagram"></i></a></li>

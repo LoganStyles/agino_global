@@ -8,12 +8,12 @@
 <html lang="en">
 
 <head>
-  <title>Agino Global Real Estate::: Contact</title>
+  <title>Agino Global Real Estate::: Contact Us</title>
   <!-- Meta -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="google-site-verification" content="" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="Official wesbsite of Agino Global Real Estate ">
+  <meta name="description" content="Contact Agino Global Real Estate ">
   <meta name="keywords" content="Agino Global Real Estate , Agino, Naija Business, Construction, Real Estate, Buying, Selling, Nigeria" />
   <meta name="robots" content="" />
   <meta name="author" content="aquabytestechnologies.com.ng" />
@@ -98,7 +98,6 @@
         <div class="header-inner two">
           <div class="inner text-center">
             <h4 class="title text-white uppercase">Contact Us</h4>
-            <h5 class="text-white uppercase">Get many More Features</h5>
           </div>
           <div class="overlay bg-opacity-5"></div>
           <img src="images/page-header.jpg" alt="" class="img-responsive" />
@@ -123,8 +122,7 @@
               <div class="smart-forms">
 
                 <h3>Send Us A message</h3>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis
-                  commodo augue. Aliquam ornare hendrerit consectetuer adipiscing elit. Suspendisse et justo. augue.</p>
+                <p>We love to hear from you.</p>
                 <br /><br />
 
                 <form method="post" action="php/smartprocess.php" id="smart-form">
@@ -196,13 +194,12 @@
             <!--end left-->
 
             <div class="col-md-3">
-              <h4>Featured Properties</h4>
+              <h4>Office Address</h4>
               <div class="title-line-4 green less-margin"></div>
               <div class="clearfix"></div>
               <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-              <h5 class="paddtop1"><a href="#">info@aginoglobalrealestate.com</a></h5>
-              <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
-              <h6 class="text-green-3">₦22,000,000</h6>
+              <h5 class="paddtop1">We are located at:</h5>
+              <p>3rd Floor, Nicon Insurance Plaza, Plot 242, Muhammadu Buhari Way, Central Business District. Abuja, Nigeria</p>
               <br />
 
               <div class="divider-line solid light"></div>
@@ -210,9 +207,18 @@
               <br />
               <br />
               <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-              <h5 class="paddtop1"><a href="#">aginoglobalrealestate@gmail.com</a></h5>
-              <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
-              <h6 class="text-green-3">₦22,000,000</h6>
+              <h5 class="paddtop1">Phone</h5>
+              <p>(+234) 806 149 3122</p>
+              <br />
+
+              <div class="divider-line solid light"></div>
+
+              <br />
+              <br />
+              <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
+              <h5 class="paddtop1">Email</h5>
+              <p>info@aginoglobalrealestate.com</p>
+              <p>aginoglobalrealestate@gmail.com</p>
               <br />
 
 
