@@ -13,7 +13,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="google-site-verification" content="" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="Official wesbsite of Agino Global Real Estate ">
+  <meta name="description" content="Properties of Agino Global Real Estate ">
   <meta name="keywords" content="Agino Global Real Estate , Agino, Naija Business, Construction, Real Estate, Buying, Selling, Nigeria" />
   <meta name="robots" content="" />
   <meta name="author" content="aquabytestechnologies.com.ng" />
@@ -97,8 +97,8 @@
       <section>
         <div class="header-inner two">
           <div class="inner text-center">
-            <h4 class="title text-white uppercase">Properties Details</h4>
-            <h5 class="text-white uppercase">Get many More Features</h5>
+            <h4 class="title text-white uppercase">Properties</h4>
+            <!-- <h5 class="text-white uppercase">Get many More Features</h5> -->
           </div>
           <div class="overlay bg-opacity-5"></div>
           <img src="images/page-header.jpg" alt="" class="img-responsive" />
@@ -138,10 +138,11 @@
               <div class="clearfix"></div>
               <br /><br />
 
-              <h4 class="uppercase">Property Id: 52R5120</h4>
+              <h4 class="uppercase">Centenary City</h4>
               <div class="clearfix"></div>
 
-              <p>Etiam enim. Suspendisse imperdiet cursus nisi. Maecenas sed nisl nec lectus commodo interdum. Cras interdum, nulla ut posuere luctus, est erat fringilla est, vel lobortis odio mi a purus. Vivamus sit amet felis. Vivamus et justo in nunc pharetra semper. Morbi posuere. Donec quis nulla eget orci scelerisque ullamcorper. Quisque tempus ligula</p>
+              <p>The Centenary City is a <br />planned city, located in <br />
+                the Federal Capital Territory of Nigeria.</p>
 
               <br /><br />
 
@@ -153,8 +154,8 @@
                       <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                     </a> </div>
                   <div class="text-box-inner">
-                    <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                    <span>New York City</span>
+                    <h5 class="less-mar1"><a href="#">2 Bedroom Flat</a></h5>
+                    <span>Kubwa</span>
                     <div class="clearfix"></div>
                     <br />
                     <div class="property-info">
@@ -174,8 +175,8 @@
                       <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                     </a> </div>
                   <div class="text-box-inner">
-                    <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                    <span>New York City</span>
+                    <h5 class="less-mar1"><a href="#">4 Bedroom Flat</a></h5>
+                    <span>Airport Road</span>
                     <div class="clearfix"></div>
                     <br />
                     <div class="property-info">
@@ -197,8 +198,8 @@
                       <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                     </a> </div>
                   <div class="text-box-inner">
-                    <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                    <span>New York City</span>
+                    <h5 class="less-mar1"><a href="#">2 Bedroom Flat</a></h5>
+                    <span>Asokoro</span>
                     <div class="clearfix"></div>
                     <br />
                     <div class="property-info">
@@ -218,8 +219,8 @@
                       <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                     </a> </div>
                   <div class="text-box-inner">
-                    <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                    <span>New York City</span>
+                    <h5 class="less-mar1"><a href="#">3 Bedroom Flat</a></h5>
+                    <span>Kubwa</span>
                     <div class="clearfix"></div>
                     <br />
                     <div class="property-info">
@@ -240,14 +241,14 @@
               <div class="title-line-4 green less-margin"></div>
               <div class="clearfix"></div>
               <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-              <h5 class="paddtop1"><a href="#">500 Lorem Street, FL</a></h5>
-              <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
+              <h5 class="paddtop1"><a href="#">Centenary City</a></h5>
+              <p>The Centenary City is a planned city, located in the Federal Capital Territory of Nigeria.</p>
               <h6 class="text-green-3">₦22,000,000</h6>
               <br />
 
               <div class="divider-line solid light"></div>
 
-              <br />
+              <!-- <br />
               <br />
               <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
               <h5 class="paddtop1"><a href="#">500 Lorem Street, FL</a></h5>
@@ -255,7 +256,7 @@
               <h6 class="text-green-3">₦22,000,000</h6>
               <br />
 
-              <div class="divider-line solid light"></div>
+              <div class="divider-line solid light"></div> -->
 
               <br />
               <br />

@@ -31,8 +31,8 @@
                     </li>
 
                     <!-- <li><a href="listings.php" class="dropdown-toggle">Listing</a></li>
-                    <li><a href="properties.php" class="dropdown-toggle">Properties</a></li>
                     <li><a href="gallery.php" class="dropdown-toggle">Gallery</a></li> -->
+                    <li><a href="properties.php" class="dropdown-toggle <?= ($activePage == 'properties') ? 'active' : ''; ?>">Properties</a></li>
                     <li><a href="team.php" class="dropdown-toggle <?= ($activePage == 'team') ? 'active' : ''; ?>">Team</a></li>
                     <li><a href="contact.php" class="dropdown-toggle <?= ($activePage == 'contact') ? 'active' : ''; ?>">Contact Us</a></li>
                 </ul>

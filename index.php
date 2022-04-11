@@ -104,11 +104,10 @@
 
           <h3 class="ms-layer text34" style="top: 210px;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> find the property of your dreams</h3>
 
-          <h3 class="ms-layer text6" style="top: 260px;" data-type="text" data-effect="top(45)" data-duration="2000" data-delay="1500" data-ease="easeOutExpo"> Lorem ipsum dolor sit amet consectetuer adipiscing elit<br />
-            Suspendisse et justo
-            Praesent mattis commodo augue Aliquam ornare. </h3>
+          <h3 class="ms-layer text6" style="top: 260px;" data-type="text" data-effect="top(45)" data-duration="2000" data-delay="1500" data-ease="easeOutExpo"> 
+          With Agino Global, you are assured of the very best properties at friendly prices </h3>
 
-          <a class="ms-layer sbut13" style="left: 730px; top: 340px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="scale(1.5,1.6)"> Read More </a>
+          <a href="properties.php" class="ms-layer sbut13" style="left: 730px; top: 340px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="scale(1.5,1.6)"> Read More </a>
 
         </div>
         <!-- end slide 1 -->
@@ -119,13 +118,12 @@
 
           <img src="js/masterslider/blank.gif" data-src="images/sliders/s2.jpg" alt="" />
 
-          <h3 class="ms-layer text34" style="top: 210px;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> find the property of your dreams</h3>
+          <h3 class="ms-layer text34" style="top: 210px;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> Redefining the real estate industry</h3>
 
-          <h3 class="ms-layer text6" style="top: 260px;" data-type="text" data-effect="top(45)" data-duration="2000" data-delay="1500" data-ease="easeOutExpo"> Lorem ipsum dolor sit amet consectetuer adipiscing elit<br />
-            Suspendisse et justo
-            Praesent mattis commodo augue Aliquam ornare. </h3>
+          <h3 class="ms-layer text6" style="top: 260px;" data-type="text" data-effect="top(45)" data-duration="2000" data-delay="1500" data-ease="easeOutExpo"> Top management combined with top notch services
+            <br> all at your finger tips. </h3>
 
-          <a class="ms-layer sbut13" style="left: 730px; top: 340px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="scale(1.5,1.6)"> Read More </a>
+          <a href="properties.php" class="ms-layer sbut13" style="left: 730px; top: 340px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="scale(1.5,1.6)"> Read More </a>
 
         </div>
         <!-- end slide 2 -->
@@ -136,13 +134,13 @@
 
           <img src="js/masterslider/blank.gif" data-src="images/sliders/s3.jpg" alt="" />
 
-          <h3 class="ms-layer text34" style="top: 210px;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> find the property of your dreams</h3>
+          <h3 class="ms-layer text34" style="top: 210px;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> find that perfect property without stress</h3>
 
-          <h3 class="ms-layer text6" style="top: 260px;" data-type="text" data-effect="top(45)" data-duration="2000" data-delay="1500" data-ease="easeOutExpo"> Lorem ipsum dolor sit amet consectetuer adipiscing elit<br />
-            Suspendisse et justo
-            Praesent mattis commodo augue Aliquam ornare. </h3>
+          <h3 class="ms-layer text6" style="top: 260px;" data-type="text" data-effect="top(45)" data-duration="2000" data-delay="1500" data-ease="easeOutExpo"> when you find your dream home, <br />
+          you’ll always have the perfect place to unwind and make memories<br />
+            </h3>
 
-          <a class="ms-layer sbut13" style="left: 730px; top: 340px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="scale(1.5,1.6)"> Read More </a>
+          <a href="properties.php" class="ms-layer sbut13" style="left: 730px; top: 340px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="scale(1.5,1.6)"> Read More </a>
 
         </div>
         <!-- end slide 3 -->
@@ -373,8 +371,8 @@
                         <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                       </a> </div>
                     <div class="text-box-inner">
-                      <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                      <span>New York City</span>
+                      <h5 class="less-mar1"><a href="#">4 Bedroom Flat </a></h5>
+                      <span>Gwarinpa</span>
                       <div class="clearfix"></div>
                       <br />
                       <div class="property-info">
@@ -394,8 +392,8 @@
                         <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                       </a> </div>
                     <div class="text-box-inner">
-                      <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                      <span>New York City</span>
+                      <h5 class="less-mar1"><a href="#">6 Bedroom Flat</a></h5>
+                      <span>Apo</span>
                       <div class="clearfix"></div>
                       <br />
                       <div class="property-info">
@@ -411,12 +409,12 @@
                   <div class="feature-box-66">
                     <div class="image-holder"> <a href="#">
                         <div class="status">For Rent</div>
-                        <div class="price">₦ 11,000,000 <span>/ Month</span></div>
+                        <div class="price">₦ 15,000,000 <span>/ Month</span></div>
                         <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                       </a> </div>
                     <div class="text-box-inner">
-                      <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                      <span>New York City</span>
+                      <h5 class="less-mar1"><a href="#">2 Bedroom Flat</a></h5>
+                      <span>Asokoro</span>
                       <div class="clearfix"></div>
                       <br />
                       <div class="property-info">
@@ -439,8 +437,8 @@
                         <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                       </a> </div>
                     <div class="text-box-inner">
-                      <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                      <span>New York City</span>
+                      <h5 class="less-mar1"><a href="#">4 Bedroom Flat</a></h5>
+                      <span>Kuje</span>
                       <div class="clearfix"></div>
                       <br />
                       <div class="property-info">
@@ -460,8 +458,8 @@
                         <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                       </a> </div>
                     <div class="text-box-inner">
-                      <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                      <span>New York City</span>
+                      <h5 class="less-mar1"><a href="#">2 Bedroom Flat</a></h5>
+                      <span>Airport Road</span>
                       <div class="clearfix"></div>
                       <br />
                       <div class="property-info">
@@ -481,8 +479,8 @@
                         <img src="http://placehold.it/390x230" alt="" class="img-responsive" />
                       </a> </div>
                     <div class="text-box-inner">
-                      <h5 class="less-mar1"><a href="#">268 Green Hills Lane</a></h5>
-                      <span>New York City</span>
+                      <h5 class="less-mar1"><a href="#">2 Bedroom Flat</a></h5>
+                      <span>Kubwa</span>
                       <div class="clearfix"></div>
                       <br />
                       <div class="property-info">
@@ -509,12 +507,12 @@
         <div class="container">
           <div class="row">
             <div class="col-md-9">
-              <h3 class="less-mar3 uppercase text-white">Our Best RealEstate Deals</h3>
+              <h3 class="less-mar3 uppercase text-white">Our Best Real Estate Deals</h3>
               <p class="text-white">Take a look at some of our top notch services</p>
             </div>
             <div class="col-md-3">
               <div class="margin-top2"></div>
-              <a class="btn btn-border white-2 btn-large pull-right" href="realestate.php">Read more</a>
+              <a class="btn btn-border white-2 btn-large pull-right" href="properties.php">Read more</a>
             </div>
           </div>
         </div>
