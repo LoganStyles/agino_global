@@ -13,7 +13,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="google-site-verification" content="" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Official wesbsite of Agino Global Real Estate ">
+    <meta name="description" content="About Agino Global Real Estate ">
     <meta name="keywords" content="Agino Global Real Estate , Agino, Naija Business, Construction, Real Estate, Buying, Selling, Nigeria" />
     <meta name="robots" content="" />
     <meta name="author" content="aquabytestechnologies.com.ng" />
@@ -98,7 +98,6 @@
                 <div class="header-inner two">
                     <div class="inner text-center">
                         <h4 class="title text-white uppercase">About Us</h4>
-                        <!-- <h5 class="text-white uppercase">Real Estate Advisory</h5> -->
                     </div>
                     <div class="overlay bg-opacity-5"></div>
                     <img src="images/page-header.jpg" alt="" class="img-responsive" />
@@ -125,7 +124,7 @@
                             <div class="smart-forms">
 
                                 <h3>Who We Are</h3>
-                                <h6>Agino Global Real Estate Limited is a leading multi- disciplinary real estate company, privately held and incorporated in Nigeria.
+                                <h6><strong>Agino Global Real Estate Limited</strong> is a leading multi- disciplinary real estate company, privately held and incorporated in Nigeria.
                                     We provide bespoke solutions across a range of real estate services to owners, occupiers and investors.
                                     The company’s head office is located in Abuja, with Lagos & Enugu branch offices set to commence soon.
                                 </h6>
@@ -134,7 +133,6 @@
                                     our professionals are the best in the business and provide knowledgeable, creative solutions to meet all our clients’ real estate needs.
                                     Our in- house knowledge combined with strategic partnerships allows us to promptly meet and exceed client expectations.
                                 </h6>
-
 
                                 <br /><br />
 
@@ -155,15 +153,7 @@
 
                             <div class="divider-line solid light"></div>
 
-                            <!--<br />
-                            <br />
-                            <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-                            <h5 class="paddtop1"><a href="#">500 Lorem Street, FL</a></h5>
-                            <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
-                            <h6 class="text-green-3">₦22,000,000</h6>
-                            <br />
 
-                            <div class="divider-line solid light"></div> -->
                             <br /><br />
                             <h4>Core Values</h4>
                             <div class="title-line-4 green less-margin"></div>
@@ -180,18 +170,16 @@
 
                     <div class="row">
 
-                        <!-- <div class="col-md-4 col-sm-6 align-left clearfix"> -->
                         <div class="col-md-9 align-left clearfix">
                             <div class="item-holder bmargin">
                                 <h4 class="uppercase">Our Mission</h4>
                                 <div class="title-line-4 green less-margin"></div>
                                 <br />
-                                <!-- <h6 class="text-green-3">Our Mission</h6> -->
                                 <h5>Our Mission is to provide unparalleled real estate services to both local and international clients.</h5>
                                 <br />
-                                <!-- <h6 class="text-green-3">Our Vision</h6> -->
                                 <h4 class="uppercase">Our Vision</h4>
-                                <div class="title-line-4 green less-margin"></div><br />
+                                <div class="title-line-4 green less-margin"></div>
+                                <br />
 
                                 <h5>Our Vision is to be a leader in commercial, retail and residential real estate.
                                     We aim to become a company renowned for developing and managing properties to word- class standards.</h5>
