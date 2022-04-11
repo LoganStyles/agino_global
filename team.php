@@ -13,7 +13,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="google-site-verification" content="" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="Official wesbsite of Agino Global Real Estate ">
+  <meta name="description" content="Team for Agino Global Real Estate ">
   <meta name="keywords" content="Agino Global Real Estate , Agino, Naija Business, Construction, Real Estate, Buying, Selling, Nigeria" />
   <meta name="robots" content="" />
   <meta name="author" content="aquabytestechnologies.com.ng" />
@@ -97,7 +97,7 @@
         <div class="header-inner two">
           <div class="inner text-center">
             <h4 class="title text-white uppercase">Our Team</h4>
-            <h5 class="text-white uppercase">Get many More Features</h5>
+            <!-- <h5 class="text-white uppercase">Get many More Features</h5> -->
           </div>
           <div class="overlay bg-opacity-5"></div>
           <img src="images/page-header.jpg" alt="" class="img-responsive" />
@@ -116,13 +116,13 @@
             </div>
             <div class="clearfix"></div>
 
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-6 col-sm-6">
               <div class="team-holder13 bmargin">
                 <div class="img-holder">
                   <div class="icon-box text-center">
                     <ul class="social-icons-1">
-                      <li><a href="https://twitter.com/aquabytes"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="https://www.facebook.com/aquabytes"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="https://www.instagram.com/aginoglobalreal/"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="https://web.facebook.com/aginoglobalrealestate"><i class="fa fa-facebook"></i></a></li>
 
                       <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                     </ul>
@@ -156,7 +156,7 @@
             </div>
             <!--end item-->
 
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-6 col-sm-6">
               <div class="team-holder13 bmargin active">
                 <div class="img-holder">
                   <div class="icon-box text-center">
@@ -176,7 +176,7 @@
                   <p style="text-align:justify">
                     Mrs. Sophie currently serves as the Abuja Branch Manager of Agino Global Real Estate Limited.
                     She has extensive experience leading marketing and
-                    sales teams and is responsible for overseeing the Abuja branch of the company
+                    sales teams and is responsible for overseeing the Abuja branch of the company.
                   </p>
                 </div>
               </div>
