@@ -8,13 +8,13 @@
 <html lang="en">
 
 <head>
-    <title>Agino Global Real Estate:::Services:: Real Estate</title>
+    <title>Agino Global Real Estate:::Services:: Brokerage</title>
     <!-- Meta -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="google-site-verification" content="" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Official wesbsite of Agino Global Real Estate ">
-    <meta name="keywords" content="Agino Global Real Estate , Agino, Naija Business, Construction, Real Estate, Buying, Selling, Nigeria" />
+    <meta name="description" content="Official wesbsite of Agino Global Real Estate services Brokerage ">
+    <meta name="keywords" content="Agino Global Real Estate , Agino, Brokerage, Naija Business, Construction, Real Estate, Buying, Selling, Nigeria" />
     <meta name="robots" content="" />
     <meta name="author" content="aquabytestechnologies.com.ng" />
     <!-- this styles only adds some repairs on idevices  -->
@@ -114,15 +114,13 @@
 
                             <div class="col-md-12 nopadding">
                                 <div id="" class="">
-                                    <img src="images/page-header.jpg" alt="" class="img-responsive" />
-
-
+                                    <img src="images/services/brokerage.jpg" alt="" class="img-responsive" />
                                 </div>
                             </div>
                             <div class="clearfix"></div>
                             <br /><br />
 
-                            <div class="smart-forms">
+                            <div class="">
 
                                 <h3>Brokerage</h3>
                                 <h6>Our brokerage team at <strong>Agino  Global  Real  Estate</strong> covers both sides of the transaction chain across the residential and commercial markets.</h6>
@@ -163,15 +161,6 @@
                             <br />
 
                             <div class="divider-line solid light"></div>
-
-                            <!-- <br />
-              <br />
-              <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-              <h5 class="paddtop1"><a href="#">aginoglobalrealestate@gmail.com</a></h5>
-              <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
-              <h6 class="text-green-3">₦22,000,000</h6>
-              <br /> -->
-
 
                         </div>
                         <!--end right-->

@@ -8,13 +8,13 @@
 <html lang="en">
 
 <head>
-    <title>Agino Global Real Estate:::Services:: Advisory</title>
+    <title>Agino Global Real Estate:::Services:: Real Estate Advisory</title>
     <!-- Meta -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="google-site-verification" content="" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Official wesbsite of Agino Global Real Estate ">
-    <meta name="keywords" content="Agino Global Real Estate , Agino, Naija Business, Construction, Real Estate, Buying, Selling, Nigeria" />
+    <meta name="description" content="Official wesbsite of Agino Global Real Estate Real Estate Advisory">
+    <meta name="keywords" content="Agino Global Real Estate , Agino, Naija Business,Real Estate Advisory,services, Construction, Real Estate, Buying, Selling, Nigeria" />
     <meta name="robots" content="" />
     <meta name="author" content="aquabytestechnologies.com.ng" />
     <!-- this styles only adds some repairs on idevices  -->
@@ -114,7 +114,7 @@
 
                             <div class="col-md-12 nopadding">
                                 <div id="" class="">
-                                    <img src="images/page-header.jpg" alt="" class="img-responsive" />
+                                    <img src="images/services/advisory.jpg" alt="" class="img-responsive" />
 
 
                                 </div>
@@ -122,19 +122,19 @@
                             <div class="clearfix"></div>
                             <br /><br />
 
-                            <div class="smart-forms">
+                            <div class="">
 
                                 <h3>Real Estate Advisory</h3>
-                                <h6>Our advisory Business offers services that help our clients manage risk and increase the effectiveness of their operations, 
+                                <h6>Our advisory business offers services that help our clients manage risk and increase the effectiveness of their operations, 
                                     while at the same time performing activities in amore efficient and cost-controlled manner. 
                                     We are able to leverage significant breadth of knowledge and industry experience surroundingleadingpractices,     
-                                    and we bring a market proven methodology in delivering our services. Our advisory Business focuses on the real estate asset class, emphasizing suitable investments using a systematic approach 
-                                    with the general objective of Maximizing total returns subject to each client’s risk profile and investment guideline.</h6>
+                                    and we bring a market proven methodology in delivering our services. Our advisory business focuses on the real estate asset class, emphasizing suitable investments using a systematic approach 
+                                    with the general objective of maximizing total returns subject to each client’s risk profile and investment guideline.</h6>
 
                                 <h6>We provide a comprehensive range of advisory services based on our clients’ specific needs using our extensive knowledge of 
                                     real Estate investing, We also perform discretionary investment management activities for certain clients. 
                                     This may include evaluating client real estate investments, 
-                                    investments strategies andobjectives, evaluating new investments and making and implementing Investment decisions.
+                                    investments strategies and objectives, evaluating new investments and making and implementing Investment decisions.
                                 </h6>
 
                                 
@@ -159,14 +159,6 @@
                             <br />
 
                             <div class="divider-line solid light"></div>
-
-                            <!-- <br />
-              <br />
-              <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-              <h5 class="paddtop1"><a href="#">aginoglobalrealestate@gmail.com</a></h5>
-              <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
-              <h6 class="text-green-3">₦22,000,000</h6>
-              <br /> -->
 
 
                         </div>

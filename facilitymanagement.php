@@ -8,13 +8,13 @@
 <html lang="en">
 
 <head>
-    <title>Agino Global Real Estate:::Services:: Real Estate</title>
+    <title>Agino Global Real Estate:::Services:: Facility Management</title>
     <!-- Meta -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="google-site-verification" content="" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Official wesbsite of Agino Global Real Estate ">
-    <meta name="keywords" content="Agino Global Real Estate , Agino, Naija Business, Construction, Real Estate, Buying, Selling, Nigeria" />
+    <meta name="description" content="Official wesbsite of Agino Global Real Estate services facility management ">
+    <meta name="keywords" content="Agino Global Real Estate ,services, facility management, Agino, Naija Business, Construction, Real Estate, Buying, Selling, Nigeria" />
     <meta name="robots" content="" />
     <meta name="author" content="aquabytestechnologies.com.ng" />
     <!-- this styles only adds some repairs on idevices  -->
@@ -114,7 +114,7 @@
 
                             <div class="col-md-12 nopadding">
                                 <div id="" class="">
-                                    <img src="images/page-header.jpg" alt="" class="img-responsive" />
+                                    <img src="images/services/facilities.jpg" alt="" class="img-responsive" />
 
 
                                 </div>
@@ -122,25 +122,25 @@
                             <div class="clearfix"></div>
                             <br /><br />
 
-                            <div class="smart-forms">
+                            <div class="">
 
                                 <h3>Facility Management</h3>
-                                <h6>Our FM offers a robust solution drawing on our strengths of operating global procedures and practices through our
+                                <h6>Our facility management offers a robust solution drawing on our strengths of operating global procedures and practices through our
                                     strong team of qualified professionals covering all phases of Facilities Management.</h6>
 
                                 <h6>Our comprehensive facilities services include technical operational & maintenance, soft and integration services.
                                     We have the expertise to execute customized delivery models and best practice initiatives.
                                     Creating and delivering value and sustainable business benefits through direct
                                     and indirect cost saving strategies is fundamental to our client’s brand and business values.
-                                    We continually evaluate and recommend improvements throughout the project & asset lifecycle ensuringintegrityof systems,
+                                    We continually evaluate and recommend improvements throughout the project & asset lifecycle ensuring integrity of systems,
                                     equipment, people, and practices.
                                 </h6>
 
                                 <h6>We have sculptured an integrated facilities services that fits the most demanding environments
-                                    by integrating specialised engineering services, life-cyclecapitalasset management in addition to all essential FM services.
+                                    by integrating specialised engineering services, life-cyclecapitalasset management in addition to all essential facility management services.
                                     Our management teams monitor workflow and manage performance against strict key performance indicators,
-                                    providingourcustomerswithcostcertaintyandconsistencyof service.
-                                    We provide a range of hard FM and soft FM service solutions designed to meet the requirements of modern environments.</h6>
+                                    providing our customers with cost certainty and consistency of service.
+                                    We provide a range of hard and soft facility management service solutions designed to meet the requirements of modern environments.</h6>
                                 <br /><br />
 
 
@@ -161,15 +161,6 @@
                             <br />
 
                             <div class="divider-line solid light"></div>
-
-                            <!-- <br />
-              <br />
-              <a href="#"><img src="http://placehold.it/390x230" alt="" class="img-responsive" /></a>
-              <h5 class="paddtop1"><a href="#">aginoglobalrealestate@gmail.com</a></h5>
-              <p>Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus</p>
-              <h6 class="text-green-3">₦22,000,000</h6>
-              <br /> -->
-
 
                         </div>
                         <!--end right-->
